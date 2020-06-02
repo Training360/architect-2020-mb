@@ -11,3 +11,7 @@ feladatból áll.
 [Modularizáció](03-modularizacio.md)
 
 [Elosztott rendszerek](04-elosztott-rendszerek.md)
+
+[Domain-Driven Design](05-ddd.md)
+
+[Integrációs technológiák](06-alkalmazas-integracio.md)
