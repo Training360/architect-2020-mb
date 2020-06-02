@@ -55,9 +55,9 @@
 * Domain megértése
 * Technológiamentes
 
-[Strategic Design Tools](images/ddd-strategic.png)
+![Strategic Design Tools](images/ddd-strategic.png)
 
-[Context Mapping](images/ddd-context-mapping.png)
+![Context Mapping](images/ddd-context-mapping.png)
 
 ## Tactical Design Tools
 
@@ -77,7 +77,7 @@
 	* Abban különbözik a DAO-tól, hogy csak aggregate-enként van, nem entitásonként
 	* Betölti a kapcsolatokat is
 
-[Tactical Design Tools](images/ddd-tactical.png)
+![Tactical Design Tools](images/ddd-tactical.png)
 
 ## Tervezés
 
