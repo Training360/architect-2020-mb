@@ -7,6 +7,16 @@
 * [Letscode.hu podcast](https://soundcloud.com/letscodehu/sets/letscode-hu-podcast)
   * [DDD üzleti szemmel](https://soundcloud.com/letscodehu/ddd-uezleti-szemmel?in=letscodehu/sets/letscode-hu-podcast)
 
+Példa projektek: 
+
+* https://github.com/anton-liauchuk/educational-platform
+* https://github.com/howiehu/ddd-architecture-samples
+* https://github.com/mploed/ddd-with-spring
+* https://github.com/banq/jivejdon
+* https://github.com/ddd-by-examples/factory
+* https://github.com/citerus/dddsample-core
+* https://github.com/heynickc/awesome-ddd
+
 ## Bevezetés
 
 * Mikor és hol vágjunk?
