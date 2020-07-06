@@ -103,6 +103,10 @@ Példa projektek:
 
 ![Példa a rossz kódra](images/ddd-code-start.jpg)
 
+![Példa a rossz kódra](images/ddd-code-problems.jpg)
+
+![Példa a rossz kódra](images/ddd-code.jpg)
+
 ## Említett architektúrális problémák
 
 * Túl sok modul, százas nagyságrendű `pom.xml`

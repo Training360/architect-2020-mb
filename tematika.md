@@ -5,8 +5,8 @@
 * :heavy_check_mark: Modularizáció
 * :heavy_check_mark: Elosztott rendszerek
 * :heavy_check_mark: DDD
-* Alkalmazás integráció: SOAP webszolgáltatások, SOA, REST webszolgáltatások, JMS (Milyen interfészleírási technikák vannak?)
+* :heavy_check_mark: Alkalmazás integráció: SOAP webszolgáltatások, SOA, REST webszolgáltatások
+* REST webszolgáltatások, autentikáció?
+* JMS (Milyen interfészleírási technikák vannak?), Kafka
 * DevOps, CI/CD/CD (Konfigurációkezelés)
-* Microservices, Kafka
-* Tesztelés kihívásai microservices környezetben
-* Puffer (Java Platform Module System)
+* Microservices, Tesztelés kihívásai microservices környezetben, Java Platform Module System

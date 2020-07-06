@@ -15,3 +15,7 @@ feladatból áll.
 [Domain-Driven Design](05-ddd.md)
 
 [Integrációs technológiák](06-alkalmazas-integracio.md)
+
+[REST webszolgáltatások](07-rest.md)
+
+[JMS, Kafka](08-jms-kafka.md)
