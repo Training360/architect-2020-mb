@@ -16,8 +16,7 @@ feladatból áll.
 
 [Integrációs technológiák](06-alkalmazas-integracio.md)
 
-Code review
+[Core review](07-code-review.md)
 
 Validáció, [Kafka](08-kafka.md)
 
-[REST webszolgáltatások és JMS](07-rest.md)
