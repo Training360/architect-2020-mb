@@ -71,18 +71,3 @@ https://www.ibm.com/developerworks/webservices/library/ws-whichwsdl/
 * Swagger
 
 ![Richardson Maturity Model](images/rest-mm.png)
-
-## JMS
-
-* Mire való a fejléc?
-* Ki lehet olvasni egy üzenetet a sorból, anélkül, hogy kivennénk?
-* Mi az a mérgezett üzenet?
-* Mi az a correlation id?
-* Lehet küldeni és a választ fogadni egy tranzakcióban?
-* Mi kell ahhoz, hogy egy tranzakcióban legyen a db írás és az üzenetküldés?
-* Mi az a Temporary queue?
-* Mire való a message selector?
-* Mire való a Message Persistence?
-* Hogyan állítható a prioritás?
-* Garantálható sorrend az üzenetek között?
-* Mi az a Message Expiration és Delivery Delay?

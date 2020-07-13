@@ -23,3 +23,20 @@
 * Milyen JSON library-k vannak Java-ban?
 * Hogyan kezelsz API verziókat?
 * Milyen teszt eszközöket ismersz?
+
+# JMS
+
+## Ismétlő kérdések
+
+* Mire való a fejléc?
+* Ki lehet olvasni egy üzenetet a sorból, anélkül, hogy kivennénk?
+* Mi az a mérgezett üzenet?
+* Mi az a correlation id?
+* Lehet küldeni és a választ fogadni egy tranzakcióban?
+* Mi kell ahhoz, hogy egy tranzakcióban legyen a db írás és az üzenetküldés?
+* Mi az a Temporary queue?
+* Mire való a message selector?
+* Mire való a Message Persistence?
+* Hogyan állítható a prioritás?
+* Garantálható sorrend az üzenetek között?
+* Mi az a Message Expiration és Delivery Delay?
