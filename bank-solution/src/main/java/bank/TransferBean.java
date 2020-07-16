@@ -8,7 +8,7 @@ import javax.transaction.Transactional;
 import java.util.List;
 
 @Stateless
-@TransactionManagement(TransactionManagementType.CONTAINER)
+//@TransactionManagement(TransactionManagementType.CONTAINER)
 public class TransferBean {
 
     @Inject
@@ -17,7 +17,6 @@ public class TransferBean {
     @Inject
     private AccountBean accountBean;
 
-    @Transactional
     public Transfer createTransfer(CreateTransferCommand command) {
         var transfer = new Transfer();
         transfer.setSrc(command.getSrc());
@@ -26,8 +25,8 @@ public class TransferBean {
         var created = transferRepository.save(transfer);
 
         try {
-            accountBean.credit(transfer.getSrc(), -command.getAmount());
             accountBean.credit(transfer.getDest(), command.getAmount());
+            accountBean.credit(transfer.getSrc(), -command.getAmount());
             created.setResult("ok");
         }
         catch (IllegalCreditException ice) {

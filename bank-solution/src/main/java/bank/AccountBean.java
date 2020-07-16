@@ -15,7 +15,6 @@ public class AccountBean {
         return accountRepository.findAll();
     }
 
-    @Transactional
     public void credit(long accountId, long amount) throws IllegalCreditException {
         var account = accountRepository.findBy(accountId);
         var newBalance = account.getBalance() + amount;
