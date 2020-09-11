@@ -20,7 +20,7 @@ feladatból áll.
 
 Validáció, [Kafka](08-kafka.md)
 
-[Létező microservice határai](8-5-architekturalis-tervezes.md)
+[Létező microservice határai](08-5-architekturalis-tervezes.md)
 
 [REST és JMS](09-rest-jms.md)
 
