@@ -1,3 +1,7 @@
+# Code review
+
+Bemelegítésképp érvényesség kezelés code review.
+
 # REST
 
 ## Ismétlő kérdések
@@ -23,6 +27,14 @@
 * Milyen JSON library-k vannak Java-ban?
 * Hogyan kezelsz API verziókat?
 * Milyen teszt eszközöket ismersz?
+
+![REST crud műveletek](images/09-rest-crud.png)
+
+![Server oldali üzenetküldés](images/09-http-server-side.png)
+
+![REST és SOAP összehasonlítás](images/09-rest-soap.png)
+
+![REST verziókezelés](images/09-rest-verziokezeles.png)
 
 # JMS
 
